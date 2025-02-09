@@ -363,6 +363,11 @@ img {
   justify-content: flex-start;
   flex-direction: row;
   gap: 16px;
+  cursor: pointer;
+}
+
+.social-media .social-icons > .icon-ellipse:hover {
+  background-color: #31d0aa;
 }
 
 .logo-footer {
